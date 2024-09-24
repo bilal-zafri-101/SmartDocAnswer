@@ -1,7 +1,3 @@
-Here’s a more concise and casual README, as if it were quickly put together by a human:
-
----
-
 # 🤖 FastAPI Document Q&A
 
 Hey there! 👋 Welcome to the **FastAPI Document Q&A** app! This little project lets you upload PDF or JSON documents and ask questions about their content using LangChain and the Ollama API. 
@@ -40,11 +36,4 @@ Hey there! 👋 Welcome to the **FastAPI Document Q&A** app! This little project
 ## 🤝 Want to Contribute?
 
 Feel free to submit issues or pull requests. Let’s make this better together!
-
-## 📫 Connect with Me
-
-Got questions? Hit me up on GitHub: [yourusername](https://github.com/yourusername).
-
----
-
 Enjoy using the app! 😄

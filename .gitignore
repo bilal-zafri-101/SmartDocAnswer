@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.log
+*.out
+*.pdf
+
+# Temporary files created by the OS
+.DS_Store
+Thumbs.db
+
+# Temporary files created by Python
+*.swp
+*.swo
+
+# Pydantic compiled JSON schema cache
+pydantic_schema_cache/
+
+# Local environment files
+.env
+
+# FastAPI specific files
+*.db
+*.sqlite3
+
+# Ignore uploaded files during development
+uploaded_files/
+uploads/
+
+# Temp files for document processing
+temp/
+
+# Uvicorn logs and debug info
+logs/
+*.log
+
+# Ignore VSCode workspace settings
+.vscode/
+
+# Ignore IDE specific files
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Ignore testing outputs
+coverage/
+*.coverage
+
+# Ignore pip related files
+pip-log.txt
+pip-delete-this-directory.txt
